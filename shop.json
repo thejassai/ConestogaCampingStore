@@ -1,0 +1,200 @@
+[
+        {
+            "sno": "1",
+            "name": "No-Sleeves Blue Jacket",
+            "price": "55",
+            "sale": "-1",
+            "image": "jacket6.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Jackets",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "2",
+            "name": "No-Sleeves Black Jacket",
+            "price": "45",
+            "sale": "-1",
+            "image": "jacket5.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Jackets",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "3",
+            "name": "Synthetic Sleeping Bag",
+            "price": "65",
+            "sale": "-1",
+            "image": "sleepingBag2.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Sleeping Bags",
+            "bestSeller": "false"
+        },
+        {
+            "sno": "4",
+            "name": "Down  Sleeping Mat",
+            "price": "95",
+            "sale": "-1",
+            "image": "sleepingMat1.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Sleeping Bags",
+            "bestSeller": "false"
+        },
+        {
+            "sno": "5",
+            "name": "Puffer Jacket",
+            "price": "115",
+            "sale": "-1",
+            "image": "jacket2.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Jackets",
+            "bestSeller": "false"
+        },
+        {
+            "sno": "6",
+            "name": "Expedition Blue Jacket",
+            "price": "85",
+            "sale": "-1",
+            "image": "jacket1.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Jackets",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "7",
+            "name": "Three-Season Sleeping Bag",
+            "price": "35",
+            "sale": "-1",
+            "image": "sleepingBag1.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Sleeping Bags",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "8",
+            "name": "Tepee Tent",
+            "price": "175",
+            "sale": "-1",
+            "image": "tent5.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Tents",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "9",
+            "name": "Canvas Tent",
+            "price": "120",
+            "sale": "25",
+            "image": "tent1.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Tents",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "10",
+            "name": "Mummy Sleeping Bag",
+            "price": "60",
+            "sale": "-1",
+            "image": "sleepingBag3.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Sleeping Bags",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "11",
+            "name": "Tabernacle Tent",
+            "price": "140",
+            "sale": "-1",
+            "image": "tent4.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Tents",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "12",
+            "name": "Extreme Hoodie Jacket",
+            "price": "60",
+            "sale": "-1",
+            "image": "jacket4.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Jackets",
+            "bestSeller": "false"
+        },
+        {
+            "sno": "13",
+            "name": "Pavilion Tent",
+            "price": "125",
+            "sale": "30",
+            "image": "tent2.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Tents",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "14",
+            "name": "Semi-Rectangular Sleeping Bag",
+            "price": "75",
+            "sale": "-1",
+            "image": "sleepingBag5.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Sleeping Bags",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "15",
+            "name": "Rectangular Sleeping Bag",
+            "price": "45",
+            "sale": "-1",
+            "image": "sleepingBag4.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Sleeping Bags",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "16",
+            "name": "Hogan Tent",
+            "price": "135",
+            "sale": "20",
+            "image": "tent3.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Tents",
+            "bestSeller": "false"
+        },
+        {
+            "sno": "17",
+            "name": "Water-Proof Green Jacket",
+            "price": "145",
+            "sale": "-1",
+            "image": "jacket3.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Jackets",
+            "bestSeller": "true"
+        },
+        {
+            "sno": "18",
+            "name": "Wigwarm Tent",
+            "price": "95",
+            "sale": "10",
+            "image": "tent6.jpg",
+            "description": "I'm a product description. I'm a great place to add more details about your product such as sizing, material, care instructions and cleaning instructions.",
+            "info": "I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",
+            "type": "Tents",
+            "bestSeller": "false"
+        }
+    ]
